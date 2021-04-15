@@ -1,7 +1,7 @@
 # speaker
 plays random audio at random intervals in a discord channel
 
-this was made very quickly for some fun, may have bugs.
+this was made **very** quickly for some fun, may have bugs.
 
 # setup
 1. install all dependencies
