@@ -1,5 +1,5 @@
 # speaker
-plays random audio at random intervals in a discord channel
+a discord bot that plays random audio at random intervals in a discord channel
 
 this was made **very** quickly for some fun, may have bugs.
 
