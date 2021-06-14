@@ -61,7 +61,7 @@ client.on('message', message => {
 });
 
 function randRange(rarray) {
- var newTime = rarray[Math.floor(data.length * Math.random())];
+ var newTime = rarray[Math.floor(rarray.length * Math.random())];
  return newTime;
 }
 
