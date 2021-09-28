@@ -24,4 +24,4 @@ example audio is included :)
 
 * opus
 
-*ffmpeg-static
+* ffmpeg-static
