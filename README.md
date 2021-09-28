@@ -23,3 +23,5 @@ example audio is included :)
 * discordjs/opus
 
 * opus
+
+*ffmpeg-static
